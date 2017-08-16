@@ -1,0 +1,29 @@
+body{
+  background-color: black;
+  font-family: Verdana;
+  text-align: center;
+  color: white;
+}
+
+.link{
+  color: aquamarine;
+  font-size: 16px;
+}
+
+video{
+  object-fit: contain;
+}
+
+h1{
+  font-size: 50px;
+  font-weight: normal;
+}
+
+h2{
+  font-weight: 300;
+  font-size: 42;
+}
+
+.footer{
+  text-align: right;
+}
